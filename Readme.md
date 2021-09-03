@@ -1,4 +1,4 @@
-##App Tienda
+#App Tienda
 
 Aplicacion desarrollada en Java con el uso de Servlets, JSP y con conexion a mysql server.
 
